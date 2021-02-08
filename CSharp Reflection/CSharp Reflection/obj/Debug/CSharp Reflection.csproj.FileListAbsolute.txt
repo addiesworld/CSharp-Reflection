@@ -1,0 +1,7 @@
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\bin\Debug\CSharp Reflection.exe.config
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\bin\Debug\CSharp Reflection.exe
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\bin\Debug\CSharp Reflection.pdb
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\obj\Debug\CSharp Reflection.csprojAssemblyReference.cache
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\obj\Debug\CSharp Reflection.csproj.CoreCompileInputs.cache
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\obj\Debug\CSharp Reflection.exe
+C:\Users\ALyon\source\repos\CSharp Reflection\CSharp Reflection\obj\Debug\CSharp Reflection.pdb
